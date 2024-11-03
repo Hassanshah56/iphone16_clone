@@ -1,0 +1,142 @@
+
+* {
+   margin: 0px; padding: 0px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+
+                         /* navbar */
+.navbar{
+    background-color: rgb(39, 39, 39); height: 47px; width: 100%;  }
+ul,li,a {  text-decoration: none; }
+.row{
+    display: flex;  position: sticky; gap: 35px; justify-content: center; list-style: none; padding-top: 10px; font-size: 12px; }
+    span{
+        color: rgb(216,216,216);
+    }
+
+
+                         /* iphone 16 pro */
+    .ipro16{
+        border: 1px rgb(216,216,216); position: relative; 
+
+    }
+    .ipro17{
+position: absolute; color:rgb(216,216,216); top: 20%; left: 33%; font-size: 40px; font-weight: bold; 
+    }
+    .ipro18{
+position: absolute; color: rgb(216, 216, 216); top: 40%; left: 38%; font-weight: lighter; font-size: 40px;
+    }
+    .ipro19{
+       position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 110%; left: 45%; border-radius: 40px; color: #fff;
+    }
+    .ipro20{
+  position: absolute; font-size: large; padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 110%; left: 55%; border-radius: 40px; color: #fff;
+    }
+    .ipro21 {
+        position: absolute; color: rgb(216, 216, 216); top: 120%; left: 43%;
+
+    }
+                          /* iphone 16 */
+    .i15{
+        border: 1px ; position: relative; 
+    }
+    .i16{
+       position: absolute; color: black; top: 155%; left: 33%; font-size: 50px; font-weight: bold;
+    }
+    .i17{
+       position: absolute; color: black; top: 180%; left: 36%; font-weight: lighter; font-size: 40px;
+    }
+   .i18{
+    position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 250%; left: 40%; border-radius: 40px; color: #fff;
+   }
+   .i19{
+    position: absolute; font-size: large; padding-left: 15px; padding-right: 15px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 250%; left: 50%; border-radius: 45px; color: #fff;
+
+   }
+   .i20{
+    position: absolute; color: rgb(12, 12, 12); top: 260%; left: 38%;
+   }
+                         /* product */
+    .productsize{
+    width: 90%;
+                                }
+    .product{
+    border: 1px; display: flex; left: 10px;
+    }
+    .product2{
+     position: relative; 
+    }
+    .product21{
+position: absolute; left: 22%; top: 290%;
+    }
+    .product22{
+        position: absolute; color: black; top: 300%; left: 20%; font-weight: lighter; font-size: 20px;
+    }
+    .product23{
+    position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 308%; left: 20%; border-radius: 40px; color: #fff; text-align: center;
+    }
+    .product24{
+    position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 308%; left: 30%; border-radius: 40px; color: #fff;text-align: center;
+    }
+                         /* product 2 */
+    .product3{
+ position: relative; right: 3%;
+    }
+    .product31{
+    position: absolute; left: 63%; top: 331%; font-weight: bold; font-size: 30px; color: #fff;
+    }
+    .product32{
+        position: absolute; color: rgb(255, 252, 252); top: 340%; left: 62%; font-weight: lighter; font-size: 20px;
+    }
+    .product33{
+        position: absolute; color: rgb(255, 252, 252); top: 343%; left: 59%; font-weight: lighter; font-size: 16px;
+    }
+    .product34{
+        position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 350%; left: 63%; border-radius: 40px; color: #fff; text-align: center;
+    }
+    .product35{
+        position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 350%; left: 73%; border-radius: 40px; color: #fff;text-align: center;
+    }
+
+                       /* product 3 */
+    .product41{
+     position: relative;
+    }
+    .product42{
+     position: absolute; left: 22%; top: 385%;
+    }
+    .product43{
+        position: absolute; color: rgb(255, 252, 252); top: 393%; left: 20%; font-weight: lighter; font-size: 20px;
+    }
+    
+    .product44{
+        position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 400%; left: 20%; border-radius: 40px; color: #fff; text-align: center;
+    }
+    .product45{
+        position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 400%; left: 30%; border-radius: 40px; color: #fff;text-align: center;
+    }
+                                  
+                       /* product 4 */
+    .product51{
+    position: relative;  right: 3%;
+    }
+    .product52{
+    position: absolute; position: absolute; left: 64%; top: 440%; color: #fff; font-weight: bold; font-size: 25px;
+    }
+    .product53{
+    position: absolute; position: absolute; left: 61%; top: 449%; color: #fff; font-weight: lighter; font-size: 16px;
+    }
+    .product54{
+    position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 455%; left: 64%; border-radius: 40px; color: #fff; text-align: center;
+    }
+    .product55{
+    position: absolute; font-size: large; padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px; background-color: rgb(0, 113, 227); top: 455%; left: 75%; border-radius: 40px; color: #fff;text-align: center;
+    }      
+                /* footer */
+    footer{
+     border: 1px;  width: 100%;  height: 100px; background-color: rgb(39, 39, 39);
+    }
+    .grey{
+        justify-content: center;
+    }
+    
+    
